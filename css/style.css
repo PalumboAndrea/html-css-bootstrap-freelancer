@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(44,62,79);
+}
+
+header .row{
+    height: 80px;
+}
+
+.logo{
+    color: white;
+}
+
+.menu{
+    background-color: green;
+}
+
