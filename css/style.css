@@ -14,3 +14,22 @@ header .row{
     background-color: green;
 }
 
+.start{
+    background-color: rgb(25,188,155);
+    height: 300px;
+}
+
+.info{
+    background-color: black;
+    height: 80%;
+    color: white;
+}
+
+.portfolio{
+    background-color: white;
+}
+
+
+
+
+
