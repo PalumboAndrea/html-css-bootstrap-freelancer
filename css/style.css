@@ -74,6 +74,44 @@ img{
     color: black;
 }
 
+.btn{
+    background-color: rgb(25,188,155);
+    color: white;
+}
+
+form div{
+    margin-bottom: 10px;
+}
+
+/* FOOTER */
+
+footer{
+    background-color: rgb(59,83,109);
+    color: white;
+}
+
+.circle{
+    border-radius: 50%;
+    border: 1px solid white;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.circle a{
+    text-decoration: none;
+    color: white;
+}
+
+#start-bootstrat a{
+    text-decoration: none;
+    color: rgb(25,188,155);
+}
+
+#copyright{
+    background-color: rgb(44,62,79);
+    color: white;
+}
 
 
 
