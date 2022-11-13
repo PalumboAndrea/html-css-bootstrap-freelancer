@@ -1,9 +1,27 @@
-header{
+.uppercase{
+    text-transform: uppercase;
+}
+
+
+.navbar-custom{
     background-color: rgb(44,62,79);
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-nav a{
+    text-transform: uppercase;
 }
 
 header .row{
     height: 80px;
+}
+
+header li{
+    text-transform: uppercase;
 }
 
 .logo{
@@ -16,17 +34,44 @@ header .row{
 
 .start{
     background-color: rgb(25,188,155);
-    height: 300px;
 }
 
 .info{
-    background-color: black;
-    height: 80%;
     color: white;
+    text-transform: uppercase;
+}
+
+.line{
+    border: 2px solid white;
+    width: 50px;
+    opacity: 1;
+}
+
+.line-black{
+    border: 2px solid black;
+}
+
+.fa-star{
+    font-size: 1.6rem;
 }
 
 .portfolio{
     background-color: white;
+    text-transform: uppercase;
+}
+
+img{
+    height: 200px;
+}
+
+#about{
+    background-color: rgb(25,188,155);
+    color: white; 
+}
+
+#contact-me{
+    background-color: white;
+    color: black;
 }
 
 
